@@ -5,14 +5,14 @@ Test is an admin account.
 
 # Features
 ## Login / Signup
-User can login or choose to signup. Will save data if you do not close the console. 
+User can login or choose to signup. Will save the data if user does not close the console. 
 ## Admin 
 User can choose to view and delete users in the system for that console attempt.
 ## Tools 
 ### Stopwatch 
-Simple stopwatch that you can start and stop to get a time. 
+Simple stopwatch that user can start and stop to get a time. 
 ### Clock 
-Simple clock to tell you your time and date
+Simple clock to tell user their time and date.
 
 # Updates 
 ### v0.2.5-alpha
