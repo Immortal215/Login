@@ -15,6 +15,6 @@ Simple stopwatch that you can start and stop to get a time.
 Simple clock to tell you your time and date
 
 # Updates 
-### v0.2.5 alpha 
+### v0.2.5-alpha
 * Simple login and signup features
 * Simple outline for tools (do not completely work as intended)
