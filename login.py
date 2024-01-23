@@ -68,10 +68,10 @@ def account() :
     print(f"\n~ Account ~\nCurrent Name : {user['name']}")
     print(f"Current Username : {user['username']}")
     print(f"Current Password : {user['password']}")
-    if username == "Immortal215":
-        print("\nYou are an Admin!")
+    if username == "test":
+        print("\n~ You are an Admin! ~")
     else : 
-        print("\nYou are not an Admin!")
+        print("\n~ You are not an Admin! ~")
 
     input("\nEnter to go back : ")
     print("\n~ Going Back ~")
