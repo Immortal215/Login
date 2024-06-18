@@ -1,13 +1,13 @@
 # Overview
 Python login with simple tools in the console.
-Stored users usernames and passwords : test | test, username | password 
+Basic stored users usernames and passwords : test | test, username | password 
 Test is an admin account. 
 
 # Features
 ## Login / Signup
-User can login or choose to signup. Will save the data if user does not close the console. 
+User can login or choose to signup. Will persist data in a pickle file.
 ## Admin 
-User can choose to view and delete users in the system for that console attempt.
+User can choose to view and delete users in the system.
 ## Tools 
 ### Stopwatch 
 Simple stopwatch that user can start and stop to get a time. 
@@ -15,6 +15,9 @@ Simple stopwatch that user can start and stop to get a time.
 Simple clock to tell user their time and date.
 
 # Updates 
+### v0.5.3-beta
+* Added pickling for data saving
+* Polished tools
 ### v0.2.5-alpha
 * Simple login and signup features
 * Simple outline for tools (do not completely work as intended)
