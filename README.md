@@ -3,6 +3,11 @@ Python login with simple tools in the console.
 Basic stored users usernames and passwords : test | test, username | password 
 Test is an admin account. 
 
+Run in the terminal
+```Bash
+python main.py
+```
+
 # Features
 ## Login / Signup
 User can login or choose to signup. Will persist data in a pickle file.
