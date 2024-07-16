@@ -1,9 +1,10 @@
 # Overview
 Python login with simple tools in the console.
 Basic stored users usernames and passwords : test | test, username | password 
+
 Test is an admin account. 
 
-Run in the terminal
+### To run in the terminal
 ```Bash
 python main.py
 ```
